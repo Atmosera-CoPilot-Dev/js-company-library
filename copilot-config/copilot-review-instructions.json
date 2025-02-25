@@ -1,0 +1,28 @@
+{
+  "instructions": [
+    {
+      "text": "Ensure all class names are in PascalCase."
+    },
+    {
+      "text": "Check for the use of '===' instead of '=='."
+    },
+    {
+      "text": "Verify that all functions have appropriate return types."
+    },
+    {
+      "text": "Ensure all loops have proper termination conditions."
+    },
+    {
+      "text": "Check for the use of template literals instead of string concatenation."
+    },
+    {
+      "text": "Ensure all async functions handle errors using try-catch."
+    },
+    {
+      "text": "Verify that all dependencies are listed in package.json."
+    },
+    {
+      "text": "Check for consistent indentation using 2 spaces."
+    }
+  ]
+}
