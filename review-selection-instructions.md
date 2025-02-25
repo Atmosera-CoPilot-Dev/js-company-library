@@ -1,6 +1,7 @@
 Modify settings file for text of file review.
 
 Text based JSON fragment:
+
 {
   "github.copilot.chat.reviewSelection.enabled": true,
   "github.copilot.chat.reviewSelection.instructions": [
@@ -31,7 +32,7 @@ Text based JSON fragment:
   ]
 }
 
-Text based JSON fragment:
+File-based :
 
 {
   "github.copilot.chat.reviewSelection.enabled": true,
