@@ -36,5 +36,5 @@ File-based :
 
 {
   "github.copilot.chat.reviewSelection.enabled": true,
-  "github.copilot.chat.reviewSelection.instructionsFile": "./copilot-config/copilot-review-instructions.json"
+  "github.copilot.chat.reviewSelection.instructionsFile": "./copilot-config/copilot-review-selection.json"
 }
