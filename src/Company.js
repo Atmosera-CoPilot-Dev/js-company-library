@@ -45,6 +45,9 @@ class Company {
     getDepartments() {
         return this.departments;
     }
+
+    
+
 }
 
 
